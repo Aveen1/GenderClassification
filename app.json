@@ -1,0 +1,22 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    },
+    {
+      "url": "https://buildpack-registry.s3.amazonaws.com/buildpacks/heroku-community/apt.tgz"
+    }
+  ],
+  "description": "",
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "GenderClassification",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
